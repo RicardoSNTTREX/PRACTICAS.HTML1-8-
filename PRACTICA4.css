@@ -1,0 +1,73 @@
+.autor{
+    background-color: #db1010;
+    font-size: 60px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif
+    }
+    .DATOS{
+    background-color: #04f1d2;
+    padding: auto;
+    border: 5px solid rgb(238, 241, 10);
+    font-family: Helvetica, Geneva, Arial,
+    SunSans-Regular, sans-serif
+}
+.OBJETIVO{
+background-color: #1bee14;
+text-align: center;
+padding: 0%;
+border-left: #090dec; 
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif
+}
+.EXPERIENCIA{
+background-color: #b5f702;
+padding: auto;
+border: 5px solid rgb(107, 102, 102);
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif
+}
+.Preparación{
+background-color: #0f54e9af;
+padding: auto;
+border: 5px solid black;
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif
+}
+.grado{
+background: rgb(243, 9, 9);
+margin: 0.5em 0;
+padding: 0.3em;
+border-right: 1em solid black
+}
+.IDIOMAS{
+background-color: #f10b0b;
+font-size: 20px;
+margin: 0 auto;
+text-align-last: right;
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif
+} 
+.Habilidades{
+background: rgb(240, 8, 8);
+margin: 0.5em 0;
+padding: 0.3em;
+border-right: 1em solid black
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif
+}
+.proyecto{
+background-color: #e98e17;
+padding: auto;
+border: 5px solid black;
+font-family: Helvetica, Geneva, Arial,
+SunSans-Regular, sans-serif
+}
+.contacto{
+background: rgb(14, 230, 32);
+margin: 0.5em 0;
+padding: 0.3em;
+border-right: 1em solid black
+}
+    
